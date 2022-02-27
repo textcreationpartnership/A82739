@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Parliament assembled at Westminster. January 23. 1659. Ordered by the Parliament, that this declaration be forthwith printed and published. Thomas St Nicholas, Clerk of the Parliament.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82739</idno>
+            <idno type="STC">Wing E1491</idno>
+            <idno type="STC">Thomason E1013_24</idno>
+            <idno type="STC">ESTC R208141</idno>
+            <idno type="EEBO-CITATION">99867127</idno>
+            <idno type="PROQUEST">99867127</idno>
+            <idno type="VID">119418</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82739)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119418)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1013[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Parliament assembled at Westminster. January 23. 1659. Ordered by the Parliament, that this declaration be forthwith printed and published. Thomas St Nicholas, Clerk of the Parliament.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>16 [i.e. 15], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Streater and John Macock, printers to the Parliament,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659 [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>P. 15 misnumbered 16.</note>
+                  <note>Annotation on Thomason copy: "Jan. 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119418:1"/>
+            <pb facs="tcp:119418:1" rendition="simple:additions"/>
+            <p>A DECLARATION Of the PARLIAMENT Aſſembled at Weſtminſter.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>January</hi> 23. 1659.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>ORdered by the Parliament,</hi> That this De<g ref="char:EOLhyphen"/>claration be forthwith Printed and Pub<g ref="char:EOLhyphen"/>liſhed.</p>
+                  <closer>
+                     <signed>THOMAS S<hi rend="sup">t</hi> NICHOLAS, <hi>Clerk of the Parliament.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>John Streater</hi> and <hi>John Macock,</hi> Printers to the Parliament, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119418:2"/>
+            <pb n="3" facs="tcp:119418:2"/>
+            <head>A DECLARATION Of the PARLIAMENT Aſſembled at Weſtminſter.</head>
+            <p>THe people of <hi>England</hi> having bin neceſſitated to take up Arms in the juſt defence of their Laws and Liberties againſt the late King: And it having pleaſed God after a long War, and many Battels fought in the Field, ſo
+<pb n="4" facs="tcp:119418:3"/>
+to bleſs their Armies, and to bring the War to ſuch an iſſue, that if they were not wanting to themſelves, they might reap the fruit of all the Blood and Trea<g ref="char:EOLhyphen"/>ſure exhauſted in that Quarrel, and not only be reſtored to their Freedom for the preſent, but ſecured againſt all the like at<g ref="char:EOLhyphen"/>tempts for the future. The Parliament hereupon, as the <hi>Truſtees</hi> of the People for the accompliſhing of thoſe ends, did Declare and Enact, That the people of <hi>England,</hi> and of all the Dominions and Territories thereunto belonging, ſhould be thenceforth Governed as a Common-wealth and Free State, by the Repreſen<g ref="char:EOLhyphen"/>tatives of the people in Parliament, and that without any King, or Houſe of Lords; Judging this not only to be the undoubted Right of the people, but that the Office of a King in theſe Nations, or
+<pb n="5" facs="tcp:119418:3"/>
+to have the power thereof in any Single perſon, as alſo the Houſe of Lords, was burdenſome and dangerous to the Safety and Liberty of the people<hi>:</hi> And by this means the Foundations of a Publique In<g ref="char:EOLhyphen"/>tereſt being layed in the place of that which was only private and perſonal, this people might grow up (through the goodneſs of God) into perfect Freedom, being Governed in the Supreme Power by their own Repreſentatives; and in the Executive Power, by their known Laws and Judicatory; the beſt meaſure and Standard of Liberty<hi>:</hi> their Navigation and Trade encouraged and promoted, which in all Monarchies is ſtinted and reſtrained. The true Proteſtant Religi<g ref="char:EOLhyphen"/>on both at home and abroad owned and countenanced, which under the former Conſtitution was clogged with vain and
+<pb n="6" facs="tcp:119418:4"/>
+Superſtitious Ceremonies, and corrupt opinions touching Faith and Worſhip, impoſed upon all, without any regard had to tender Conſciences, and the Miniſters of the Goſpel, and the Profeſſors thereof, with Godlineſs it ſelf, diſcountenanced and perſecuted.</p>
+            <p>To this ſtate of things did the Parlia<g ref="char:EOLhyphen"/>ment judge it their Duty to bring this Nation, and the free people thereof, and no man can reaſonably doubt, but that long before this time<g ref="char:punc">▪</g> the Parliament (through the ſame good and gracious preſence that had accompanied their Un<g ref="char:EOLhyphen"/>dertakings) would have accompliſhed their Intentions in theſe things, and ſet<g ref="char:EOLhyphen"/>led the Common-wealth upon the Baſis and Foundation aforeſaid, if they had not been ſo often interrupted, and there<g ref="char:EOLhyphen"/>by prevented hitherto from doing that,
+<pb n="7" facs="tcp:119418:4"/>
+which always was and is the utmoſt de<g ref="char:EOLhyphen"/>ſire and intention of their hearts.</p>
+            <p>And yet the Parliament cannot but take notice of the Artifices that are uſed to miſ-repreſent their Intentions, and to blemiſh their Proceedings before the people, unjuſtly charging them with a Deſigne to perpetuate themſelves now Sitting, to ſubject the people to Arbi<g ref="char:EOLhyphen"/>trary Power, and to Govern them by Force. And as to matters of Religion on one hand, That they are enemies to the Miniſtry, their Maintenance by Tythes, to the Univerſities and Learn<g ref="char:EOLhyphen"/>ing, and encouragers of Fanatique Prin<g ref="char:EOLhyphen"/>ciples; on the other hand, That the Parliament is too ſevere, and of Impo<g ref="char:EOLhyphen"/>ſing Principles in matters of Religion; not being ignorant, that thoſe who by theſe means do induſtriouſly labour to
+<pb n="8" facs="tcp:119418:5"/>
+diſ-affect the people to the Parliament, are ſuch, who by ſpecious pretenſes would firſt put out their eyes, that they might not ſee the way to their own true liberty, and then bring them back again into their old ſervitude.</p>
+            <p>The Parliament therefore, to omit nothing in their power that may unde<g ref="char:EOLhyphen"/>ceive honeſt and well meaning men, have thought it neceſſary in this con<g ref="char:EOLhyphen"/>juncture of Time and Affairs, to De<g ref="char:EOLhyphen"/>clare and Manifeſt (as they do here<g ref="char:EOLhyphen"/>by) what their Intentions are, as to the Government of theſe Nations, with ſome other particulars relating there<g ref="char:EOLhyphen"/>unto; wherein they are Reſolved (through the Goodneſs and Aſſiſtance of God) to remain conſtant and im<g ref="char:EOLhyphen"/>moveable.</p>
+            <pb n="9" facs="tcp:119418:5"/>
+            <p n="1">1. <hi>That the</hi> Parliament <hi>will pro<g ref="char:EOLhyphen"/>vide forthwith to perfect thoſe begin<g ref="char:EOLhyphen"/>ings which are already made for ſet<g ref="char:EOLhyphen"/>ling the Government of theſe Na<g ref="char:EOLhyphen"/>tions and the People thereof in the way of a</hi> Commonwealth <hi>and</hi> Free-State, <hi>without a King, Single Perſon, or Houſe of Lords, in ſuch manner, that they may be governed from time to time by</hi> Repreſentatives <hi>in</hi> Parlia<g ref="char:EOLhyphen"/>ment <hi>choſen by themſelves, in whom alone the Supream Authority of theſe Nations doth and ought to reſide, and by ſuch as they ſhall appoint and Conſtitute as Officers and Miniſters under them for the good of the Peo<g ref="char:EOLhyphen"/>ple; And that the Parliament will make it their Care to form the Army and Forces of theſe Nations in ſuch manner, that whileſt it ſhall be ſound neceſſary for them or any of them to be</hi>
+               <pb n="10" facs="tcp:119418:6"/>
+               <hi>kept up for the Safety of the</hi> Com<g ref="char:EOLhyphen"/>monwealth, <hi>they may be wholly ſub<g ref="char:EOLhyphen"/>ject and obedient to the Civil Autho<g ref="char:EOLhyphen"/>rity.</hi>
+            </p>
+            <p n="2">2. <hi>There being nothing more eſſen<g ref="char:EOLhyphen"/>tial to the Freedome of a</hi> State, <hi>then that the people ſhould be governed by the</hi> Lawes, <hi>and that Juſtice be ad<g ref="char:EOLhyphen"/>miniſtred by ſuch only as are accompt<g ref="char:EOLhyphen"/>able for male-adminiſtration, It is hereby further Declared, That all proceedings touching the Lives, Li<g ref="char:EOLhyphen"/>berties, and Eſtates of all the Free People of this</hi> Commonwealth, <hi>ſhall be according to the Laws of the Land. And that the</hi> Parliament <hi>will not meddle with the ordinary adminiſtra<g ref="char:EOLhyphen"/>tion, or the executive part of the</hi> Law: <hi>It being the principal care of this, as it hath been of all former</hi> Par<g ref="char:EOLhyphen"/>liaments, <hi>to provide for the freedome</hi>
+               <pb n="11" facs="tcp:119418:6"/>
+               <hi>of the people againſt arbitrarineſse in Government.</hi>
+            </p>
+            <p n="3">3. <hi>And that they will make effectual proviſion for the Countenancing of a Learned and Pious Goſpel-Miniſtry through all the three Nations, and for the encouraging and protecting them in the work of their Miniſtry againſt diſturbances. And as to their maintenance, that by</hi> Tythes <hi>ſhall be continued, it being already eſtabliſhed by</hi> Law, <hi>and is in it ſelf the moſt cer<g ref="char:EOLhyphen"/>tain convenient and comfortable way of maintenance, that in the Judgment of the</hi> Parliament <hi>can be ſettled. And therefore they do expect and require, That the Judges, Juſtices of the Peace, and others whom it concerns, do take care, that the</hi> Laws <hi>touching the ſame be put in effectual execu<g ref="char:EOLhyphen"/>tion. And for a further increaſe of</hi>
+               <pb n="12" facs="tcp:119418:7"/>
+               <hi>maintenance then hath been anciently ſettled upon preaching Miniſters, The</hi> Parliament <hi>doth Declare, That the</hi> Augmentations <hi>by the</hi> Impro<g ref="char:EOLhyphen"/>priations <hi>of the late</hi> King, Biſhops, Deans <hi>and</hi> Chapters, <hi>and</hi> Delin<g ref="char:EOLhyphen"/>quents <hi>not compounded for, as like<g ref="char:EOLhyphen"/>wiſe by</hi> Tenths <hi>and</hi> Firſt-Fruits, <hi>ſhall be continued and ſettled upon the Preaching Miniſtry, not to be aliened or altered from that uſe; and diſtributed in ſuch manner, as they may be applied to ſuch places as ſtand in moſt need, that every place in the Land may have a preaching Mini<g ref="char:EOLhyphen"/>ſter, who may be able to teach the people the good knowledg of the Lord, and may have a comfortable livelihood and incouragement among them: As alſo that proviſion ſhall be made for due Liberty of Conſcience in matters</hi>
+               <pb n="13" facs="tcp:119418:7"/>
+               <hi>of Religion, according to the</hi> Word of God.</p>
+            <p n="4">4. <hi>The Parliament do Declare, That they will uphold the Publique Univerſities, and Schools of this Land, and not onely continue to them the Priviledges and Advantages they now Enjoy, but ſhall be ready to give them ſuch further Countenance as may Encourage them in their Studies, and Promote Godlineſs, Learning, and Good Manners amongſt them.</hi>
+            </p>
+            <p n="5">5. <hi>The Parliament being very ſen<g ref="char:EOLhyphen"/>ſible of the great Decay of the Trade of theſe Nations, will apply them<g ref="char:EOLhyphen"/>ſelves to ſuch Councels and Means, as ſhall be found moſt proper both for the ſpeedy reſtoring and increaſing thereof; Judging,</hi> That there is no one thing in the Affairs of State more important to the Welfare,
+<pb n="14" facs="tcp:119418:8"/>
+Strength, and Glory of a Common-wealth, eſpecially of this being an Iſland, then the Encouragement of Trade and Navigation.</p>
+            <p n="6">6. <hi>As to the preſent Burthens which are upon the Nation, The Par<g ref="char:EOLhyphen"/>liament is very ſenſible thereof, and of thoſe Extravagant Councels and Actions which haveing aged the Na<g ref="char:EOLhyphen"/>tion in ſo great a</hi> Debt <hi>and</hi> Charge, <hi>the guilt whereof will not reſt upon them, though the Danger and Bur<g ref="char:EOLhyphen"/>then thereof doth. And it is one of the greateſt Cares they have upon them, how to give the People that Eaſe which their Condition calls for, and alſo provide for their Safety, and an<g ref="char:EOLhyphen"/>ſwer the preſsing neceſsities of the</hi> State; <hi>Which the Parliament hopes in ſome meaſure to do in a very ſhort time, in caſe the unreaſonable Diſ<g ref="char:EOLhyphen"/>ſatisfactions</hi>
+               <pb n="16" facs="tcp:119418:8"/>
+               <hi>and turbulent Actings of unquiet men do not Continue the Charge longer then otherwiſe will be neceſſary.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Munday, <hi>Jan.</hi> 23. 1659.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>ORdered by the Parliament,</hi> That this <hi>Declaration</hi> be forthwith Printed and Publiſhed.</p>
+            <closer>
+               <signed>
+                  <hi>Thomas St. Nicholas</hi> Clerk of the Parliament.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>John Streater,</hi> and <hi>John Macock,</hi> Printers to the <hi>Parliament,</hi> 1659.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
